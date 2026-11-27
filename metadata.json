@@ -1,0 +1,6 @@
+{
+  "name": "Ironhold Breakout",
+  "description": "A graphically detailed top-down tactical prison break game featuring multiple escape routes, crafting, stealth raycast vision cones, disguises, vents, tunnels, and intuitive keyboard, mouse, or touch controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
